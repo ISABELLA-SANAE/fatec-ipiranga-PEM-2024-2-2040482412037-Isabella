@@ -4,7 +4,7 @@
 *----------------------------------------------*
 * Objetivo do Programa: Ordenação com inserção *
 * Data - 10/10/2024                            * 
-* Autor: Natalia Yuri Ike                      *
+* Autor: Isabella Sanae Kiyatake               *
 *----------------------------------------------*/
 
 #include <stdio.h>
